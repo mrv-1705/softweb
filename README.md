@@ -182,10 +182,10 @@ Homepage.html
         <div class="navbar">
             <h1 class="logo">T<span>ime</span>X<span>perts</span></h1>
             <ul>
-                <li><a href="http://127.0.0.1:8000/static/home.html"> Home </a></li>
-                <li><a href="http://127.0.0.1:8000/static/product.html"> Products </a></li>
-                <li><a href="http://127.0.0.1:8000/static/people.html"> People </a></li>
-                <li><a href="http://127.0.0.1:8000/static/contact.html"> Contact </a></li>
+                <li><a href="http://127.0.0.1:8000/static/homepage.html"> Home </a></li>
+                <li><a href="http://127.0.0.1:8000/static/products.html"> Products </a></li>
+                <li><a href="http://127.0.0.1:8000/static/person.html"> People </a></li>
+                <li><a href="http://127.0.0.1:8000/static/contactus.html"> Contact </a></li>
             </ul>
             <form action="" method="get">
                 <input type="text" placeholder="Enter to Search">
@@ -362,27 +362,27 @@ Products.html
         <div class="container">
             <div class="box-container">
                 <div class="box">
-                    <img src=" logo1.jpg" alt="">
+                    <img src="pic1.jpeg" alt="">
                     <h3> FusionCharts Suite XT </h3>
                     <p> Platform for data-driven maps. </p>
                 </div>
                 <div class="box">
-                    <img src="logo2.jpg" alt="">
+                    <img src="pic2.jpg" alt="">
                     <h3> Fusion Export </h3>
                     <p> Export full Dashboards as PDFs for use in reports and emails. </p>
                 </div>
                 <div class="box">
-                    <img src="logo3.jpg" alt="">
+                    <img src="pic3.png" alt="">
                     <h3> Fusion Grid </h3>
                     <p> Rocket fuel for data intensive applications with integrated charting. </p>
                 </div>
                 <div class="box">
-                    <img src=" logo5.jpg" alt="">
+                    <img src="pic 4.jpg" alt="">
                     <h3> Fusion Time </h3>
                     <p> Plot high-performance time-series visualizations. </p>
                 </div>
                 <div class="box">
-                    <img src="logo4.jpg" alt="">
+                    <img src="pic5.png" alt="">
                     <h3> Yellowfin BI and Analytics </h3>
                     <p> Powerful and flexible embedded analytics platform.. </p>
                 </div>
@@ -537,15 +537,15 @@ Person.html
         <div class="image">
             <table cellspacing="20"> 
                 <tr align="center">
-                    <td> <img src="pic3.jpg"> </td>
-                    <td> <img src="sundharpichai.jpg"> </td>
-                    <td> <img src="stevejobs.jpg"> </td>
-                    <td> <img src="elonmusk.jpg"> </td>
-                    <td> <img src="markzuckerberg.jpg"> </td>
-                    <td> <img src="jeffbezos.jpg"> </td>
+                    <td> <img src="me.png"> </td>
+                    <td> <img src="sundar.png"> </td>
+                    <td> <img src="img1.jpg"> </td>
+                    <td> <img src="elon.png"> </td>
+                    <td> <img src="mark.png"> </td>
+                    <td> <img src="jeff.png"> </td>
                 </tr>
                 <tr align="center">
-                    <th> Preethi J </th>
+                    <th> Russel</th>
                     <th> Sundhar Pichai </th>
                     <th> Steve Jobs </th>
                     <th> Elon Musk </th>
@@ -800,6 +800,22 @@ Contact us.html
 
 
 ## OUTPUT:
+Home page
+![op1](https://github.com/mrv-1705/softweb/assets/114565075/0c753719-d46c-4122-b1cd-bea82697add9)
+
+Products page
+![op2](https://github.com/mrv-1705/softweb/assets/114565075/d76aff0e-2243-4643-9b4c-088af28fe9b3)
+
+People's Page
+![op3](https://github.com/mrv-1705/softweb/assets/114565075/3d76e10d-ba66-4486-b408-c73d61172b1c)
+
+Contact us page
+
+![op4](https://github.com/mrv-1705/softweb/assets/114565075/e653219d-9b38-433b-b811-e71c9963592d)
+
+
+
+
 
 
 ## RESULT:
